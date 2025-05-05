@@ -1,3 +1,6 @@
+
+<a href="https://ibb.co.com/3YQ7vWT2"><img src="https://i.ibb.co.com/wrjR7CdV/0-02-06-e84ebcb9f2cf06bb71da101c0f3aa4bfb540197125ed8eda08c32dc3f6595562-5db8ed0ec67305b0.jpg" alt="0-02-06-e84ebcb9f2cf06bb71da101c0f3aa4bfb540197125ed8eda08c32dc3f6595562-5db8ed0ec67305b0" border="0" /></a>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=54FF8D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </div>
